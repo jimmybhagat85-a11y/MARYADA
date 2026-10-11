@@ -1,0 +1,6 @@
+{
+  "name": "MARYADA",
+  "description": "Ancient Wisdom. Modern Life. AI-powered ethical reflection through Lord Shri Ram's Ramayana principles with animated hologram visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
